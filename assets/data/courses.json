@@ -39,6 +39,14 @@
       "price": "₹1999",
       "image": "assets/img/gallery/featured1.png",
       "whatsapp": "https://wa.me/91XXXXXXXXXX"
+    },
+    {
+      "title": "Devops",
+      "category": "Software",
+      "price": "2000",
+      "description": "abcd",
+      "image": "/assets/img/uploads/screenshot-from-2026-04-04-16-52-55.png",
+      "whatsapp": "wa.me/91"
     }
   ]
 }
