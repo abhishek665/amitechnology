@@ -1,3 +1,10 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/img/uploads"
+public_folder: "/assets/img/uploads"
+
 collections:
   - name: "courses"
     label: "Courses"
