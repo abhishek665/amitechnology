@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Python Course",
+    "category": "Programming",
+    "description": "Learn Python from scratch",
+    "price": "₹1999",
+    "image": "assets/img/gallery/featured1.png",
+    "whatsapp": "https://wa.me/91XXXXXXXXXX?text=I%20want%20Python%20course"
+  },
+  {
+    "title": "Web Development",
+    "category": "Development",
+    "description": "HTML, CSS, JS complete course",
+    "price": "₹2999",
+    "image": "assets/img/gallery/featured2.png",
+    "whatsapp": "https://wa.me/91XXXXXXXXXX?text=I%20want%20Web%20course"
+  }
+]
